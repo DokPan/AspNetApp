@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ispp34\\AspNetApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFD8509-3035-46C3-A218-D48E6A89FF41}|AspNetApp\\AspNetApp.csproj|c:\\temp\\ispp34\\aspnetapp\\aspnetapp\\aspnetapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2EFD8509-3035-46C3-A218-D48E6A89FF41}|AspNetApp\\AspNetApp.csproj|solutionrelative:aspnetapp\\aspnetapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6916E3-DA91-4006-B0D4-8562DE8344F2}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{0A6916E3-DA91-4006-B0D4-8562DE8344F2}|C:\\Temp\\ispp34\\AspNetApp\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{0A6916E3-DA91-4006-B0D4-8562DE8344F2}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{0A6916E3-DA91-4006-B0D4-8562DE8344F2}|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6916E3-DA91-4006-B0D4-8562DE8344F2}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{0A6916E3-DA91-4006-B0D4-8562DE8344F2}|C:\\Temp\\ispp34\\AspNetApp\\Dockerfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0A6916E3-DA91-4006-B0D4-8562DE8344F2}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{0A6916E3-DA91-4006-B0D4-8562DE8344F2}|solutionrelative:Dockerfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFD8509-3035-46C3-A218-D48E6A89FF41}|AspNetApp\\AspNetApp.csproj|c:\\temp\\ispp34\\aspnetapp\\aspnetapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFD8509-3035-46C3-A218-D48E6A89FF41}|AspNetApp\\AspNetApp.csproj|solutionrelative:aspnetapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFD8509-3035-46C3-A218-D48E6A89FF41}|AspNetApp\\AspNetApp.csproj|c:\\temp\\ispp34\\aspnetapp\\aspnetapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EFD8509-3035-46C3-A218-D48E6A89FF41}|AspNetApp\\AspNetApp.csproj|solutionrelative:aspnetapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AspNetApp",
+              "DocumentMoniker": "C:\\Temp\\ispp34\\AspNetApp\\AspNetApp\\AspNetApp.csproj",
+              "RelativeDocumentMoniker": "AspNetApp\\AspNetApp.csproj",
+              "ToolTip": "C:\\Temp\\ispp34\\AspNetApp\\AspNetApp\\AspNetApp.csproj",
+              "RelativeToolTip": "AspNetApp\\AspNetApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-19T06:35:07.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Temp\\ispp34\\AspNetApp\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Temp\\ispp34\\AspNetApp\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-19T06:33:51.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile.txt",
+              "DocumentMoniker": "C:\\Temp\\ispp34\\AspNetApp\\Dockerfile.txt",
+              "RelativeDocumentMoniker": "Dockerfile.txt",
+              "ToolTip": "C:\\Temp\\ispp34\\AspNetApp\\Dockerfile.txt",
+              "RelativeToolTip": "Dockerfile.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-19T06:32:40.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp34\\AspNetApp\\AspNetApp\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "AspNetApp\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Temp\\ispp34\\AspNetApp\\AspNetApp\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "AspNetApp\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T06:29:15.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Temp\\ispp34\\AspNetApp\\AspNetApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetApp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Temp\\ispp34\\AspNetApp\\AspNetApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "AspNetApp\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T06:28:43.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
